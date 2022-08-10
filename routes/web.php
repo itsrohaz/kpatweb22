@@ -12,5 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('disini');
+    return view('welcome');
 });
+
+
